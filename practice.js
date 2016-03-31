@@ -5,8 +5,6 @@ function addNumbers(x, y) {
 
 }
 
-
-
 var x = 20;
 var x = 3;
 
