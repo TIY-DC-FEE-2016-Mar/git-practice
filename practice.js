@@ -10,5 +10,5 @@ function multiply(x, y) {
 
 
 function subtractNumbers(x, y){
-	return x - b;
+	return x - y;
 }
